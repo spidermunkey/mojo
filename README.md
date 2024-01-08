@@ -3,18 +3,18 @@
 
 Core
 
-  /UI
+  / UI
 
-  /Icons
+  / Icons
   
-  /Colors
+  / Colors
   
-  /Components
+  / Components
   
-  /Style
+  / Style
   
-  /Date
+  / Date
   
-  /WebCore
+  / WebCore
   
-  /Structs
+  / Structs
