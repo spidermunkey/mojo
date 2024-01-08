@@ -1,4 +1,12 @@
 # mojo
 ## Vanilla Javascript Library
-ihategit
-ifeellikeimlearninghowtoletpeoplestealcode
+
+Core
+  /UI
+  /Icons
+  /Colors
+  /Components
+  /Style
+  /Date
+  /WebCore
+  /Structs
