@@ -1,0 +1,10 @@
+// https://www.w3.org/TR/css3-selectors/#whitespace
+/*
+    This is a character class that matches specific whitespace characters.
+    \\x20: Represents the space character.
+    \\t: Represents the tab character.
+    \\r: Represents the carriage return character.
+    \\n: Represents the line feed (newline) character.
+    \\f: Represents the form feed character.
+*/
+export var whitespace = "[\\x20\\t\\r\\n\\f]";
