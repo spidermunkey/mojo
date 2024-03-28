@@ -1,5 +1,6 @@
 import {mojo} from './index.js'
 window.mojo = mojo
+console.log('yo')
 for (const prop in mojo) {
     window[prop] = mojo[prop];
 }
